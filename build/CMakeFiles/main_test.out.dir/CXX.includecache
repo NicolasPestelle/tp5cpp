@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/etudiants/npestell/Documents/tp4/L3_CPP_etudiant/TP6/src/Livre.hpp
+iostream
+-
+
+/etudiants/npestell/Documents/tp4/L3_CPP_etudiant/TP6/src/Livre_test.cpp
+CppUTest/CommandLineTestRunner.h
+-
+Livre.hpp
+/etudiants/npestell/Documents/tp4/L3_CPP_etudiant/TP6/src/Livre.hpp
+sstream
+-
+

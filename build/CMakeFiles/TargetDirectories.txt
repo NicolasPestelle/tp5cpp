@@ -1,0 +1,2 @@
+/etudiants/npestell/Documents/tp4/L3_CPP_etudiant/TP6/build/CMakeFiles/main_bibliotheque.out.dir
+/etudiants/npestell/Documents/tp4/L3_CPP_etudiant/TP6/build/CMakeFiles/main_test.out.dir
